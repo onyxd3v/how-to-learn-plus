@@ -1,0 +1,10 @@
+
+@import url(images\logo_place_header.svg);
+
+.logo_place_header {
+  z-index: 1;
+  position: absolute;
+  left: 64px;
+  top: 30px;
+
+}

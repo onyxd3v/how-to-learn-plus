@@ -1,0 +1,53 @@
+
+/* vendor */
+
+@import url(../blocks/vendor/normalize.css);
+@import url(../blocks/vendor/fonts/fonts.css);
+
+/* Разметка страницы */
+
+@import url(../blocks/root/page.css);
+
+/* header */
+
+@import url(../blocks/header/header.css);
+
+/* description */
+
+@import url(../blocks/description/description.css);
+
+/* techniques */
+
+@import url(../blocks/techniques/techniques.css);
+
+/* video */
+
+@import url(../blocks/video/video.css);
+
+/* oakley */
+
+@import url(../blocks/oakley/oakley.css);
+
+/* feynman */
+
+@import url(../blocks/feynman/feynman.css);
+
+/* digits */
+
+@import url(../blocks/digits/digits.css);
+
+/* khan */
+
+@import url(../blocks/khan/khan.css);
+
+/* kaufman */
+
+@import url(../blocks/kaufman/kaufman.css);
+
+/* resources */
+
+@import url(../blocks/resources/resources.css);
+
+/* footer */
+
+@import url(../blocks/footer/footer.css);

@@ -1,0 +1,14 @@
+
+@import url(./section-subtitle/_place/section-subtitle_place_digits.css);
+@import url(./table/table.css);
+@import url(./table/__cell/table__cell.css);
+@import url(./table/__heading/table__heading.css);
+@import url(./table/__text/table__text.css);
+
+.digits {
+  padding: 100px 0 100px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}

@@ -1,0 +1,14 @@
+
+@import url(../description/_place/description_place_page.css);
+@import url(../description/two-columns/two-columns.css);
+@import url(../description/two-columns/__brief/two-columns__brief.css);
+@import url(../description/two-columns/__main-text/two-columns__main-text.css);
+@import url(../description/two-columns/__paragraph/two-columns__paragraph.css);
+@import url(../description/two-columns/__paragraph/__span-accent/two-columns__span-accent.css);
+
+.description {
+  padding-top: 100px;
+  display: flex;
+  justify-content: center;
+
+}
