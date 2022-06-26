@@ -1,9 +1,7 @@
-
 .video__iframes {
   display: flex;
   gap: 0 20px;
   position: relative;
   top: 50px;
   max-width: 1120px;
-
 }

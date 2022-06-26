@@ -1,12 +1,6 @@
-
-@import url(../video/section-subtitle/_place/section-subtitle_place_video.css);
-@import url(../video/__iframes/video__iframes.css);
-@import url(../video/__iframes/__iframe/video__iframe.css);
-
 .video {
   padding: 100px 0 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }

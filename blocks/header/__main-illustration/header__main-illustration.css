@@ -1,11 +1,7 @@
-
-@import url(images\header-image.png);
-
 .header__main-illustration {
   width: 765px;
   height: 608px;
   position: absolute;
   right: 0;
   bottom: 0;
-
 }

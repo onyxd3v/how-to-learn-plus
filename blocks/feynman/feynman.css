@@ -1,9 +1,3 @@
-
-@import url(./__illustration/feynman_illustration.css);
-@import url(./__link/feynman__link.css);
-@import url(./section-subtitle/_size_xl/section-subtitle_size_xl.css);
-@import url(./section-title/_size_xl/section-title_size_xl.css);
-
 .feynman {
   padding-top: 100px;
   display: flex;
@@ -14,5 +8,4 @@
   position: relative;
   background-color: #f2f2f2;
   z-index: 1;
-
 }

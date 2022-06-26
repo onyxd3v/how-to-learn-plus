@@ -1,19 +1,7 @@
-
-@import url(../techniques/_place/techniques_place_page.css);
-@import url(./section-title/section-title.css);
-@import url(./section-subtitle/section-subtitle.css);
-@import url(./section-subtitle/_place/section-subtitle_place_techniques.css);
-@import url(./cards/cards.css);
-@import url(./cards/__description/cards__description.css);
-@import url(./cards/__image/cards__image.css);
-@import url(./cards/__item/cards__item.css);
-@import url(./cards/__title/cards__title.css);
-
 .techniques {
   width: 80%;
   padding-top: 100px;
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
