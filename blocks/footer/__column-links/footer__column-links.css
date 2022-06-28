@@ -1,0 +1,13 @@
+.footer__column-links {
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0 16px 0;
+  padding: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.footer__column-links li:nth-of-type(2n) {
+  margin: 10px 0 10px 0;
+}
+
