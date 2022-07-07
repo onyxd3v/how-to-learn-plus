@@ -9,3 +9,4 @@
 * Методология БЭМ
 * CSS анимации
 
+[Ссылка на проект](https://onyxd3v.github.io/how-to-learn-plus/)
